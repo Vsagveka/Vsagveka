@@ -1,11 +1,11 @@
-# Hi there, I'm Vaibhav Sagvekar👋
+# - Welcome to my GitHub workspace, I'm Vaibhav Sagvekar👋
 
 🎓 MS in Information Systems @ Syracuse University (Graduating May 2026)  
-📊 Marketing Analytics | Business Analytics | Data Science  
+📊 Marketing Analytics | Business Analytics | Data Science| 
 🤖 Exploring AI for Marketing, Customer Analytics & Predictive Modeling
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/vaibhav-sagvekar-5214802b3//)
-Turning data into decisions and insights into business impact.
 
+Code with purpose. Analytics with direction. Solutions with value
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sagvekar-5214802b3/)
 ---
 
 ## 🌟 About Me
