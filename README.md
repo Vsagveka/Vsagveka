@@ -1,33 +1,40 @@
-# - Welcome to my GitHub workspace, I'm Vaibhav Sagvekar👋
+# Welcome aboard, 
+# I'm Vaibhav Sagvekar👋
 
 🎓 MS in Information Systems @ Syracuse University (Graduating May 2026)  
-📊 Marketing Analytics | Business Analytics | Data Science| 
-🤖 Exploring AI for Marketing, Customer Analytics & Predictive Modeling
+📊**Marketing Analytics | Business Analytics | Data Science|** 
+🤖 Exploring AI for Business, Marketing, Customer Analytics & Predictive Modeling
 
-Code with purpose. Analytics with direction. Solutions with value
+🎯Code with purpose. Analytics with direction. Solutions with value
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sagvekar-5214802b3/)
 ---
 
 ## 🌟 About Me
+🎓 MS in Information Systems graduate student at Syracuse University (May 2026)  
+💼 Experience through academic, hackathon, and leadership projects across analytics, marketing, and risk domains  
+📊 Passionate about customer analytics, segmentation, dashboards, and data-driven storytelling  
+🧪 Skilled in A/B testing concepts, funnel analysis, KPI tracking, and business experimentation  
+🧭 Strong in project coordination, documentation, stakeholder communication, and team leadership  
+🚀 Focused on driving growth, retention, and personalization using analytics and insights  
+🤖 Exploring AI and LLM-powered marketing tools for automation, personalization, and insight generation  
+✍️ Enjoy blending creativity with analytics through storytelling, presentations, and strategy decks  
 
-- Graduate student specializing in **Information Systems, Analytics & Marketing**
-- Interested in **Marketing Analyst, Market Research Analyst, Business Analyst, Product Analytics roles**
-- Passionate about **customer behavior, experimentation (A/B testing), and predictive modeling**
-- Enjoy blending **creativity + analytics** to tell compelling business stories
-- Strong background in documentation, teamwork, and project leadership
+> *Stories persuade, data convinces and together they inspire*
 
 ---
 
 ## 🔧 Skills & Tools
 
-### 📊 Data & Analytics
+### 📊 Data & Business Analytics
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - R (tidyr, ggplot2)
 - SQL (PostgreSQL, MySQL, SQLite, Azure Data Studio)
 - Tableau, Power BI
-- Excel (Pivot Tables, Dashboards)
+- Excel(Pivot Tables, Power Query, XLOOKUP, Data Cleaning, Dashboards, VBA Automation)
 
-### 📈 Marketing & Business Analytics
+
+### 📈 Marketing Analytics
 - Customer Segmentation (RFM, Cohorts)
 - A/B Testing & Experiment Design
 - Funnel Analysis
@@ -80,9 +87,41 @@ Code with purpose. Analytics with direction. Solutions with value
 
 ---
 
-## 🧰 Tech Stack
+## 🔧 What I Work With
 
-## 🧠 Featured Tech Stack
+📊**Data Analysis & Visualization**
+
+**Tableau · Power BI · Excel · SQL · Statistical Analysis**  
+Focus: KPI dashboards, customer insights, trend analysis, and business storytelling
+
+🧠**Marketing & Business Analytics**  
+
+**Customer Segmentation (RFM, Cohorts) · A/B Testing · Funnel Analysis · SEO · Pricing Strategy** 
+Focus: growth metrics, retention analysis, campaign performance, and personalization insights
+
+💻**Programming & Automation**  
+**Python (Pandas, NumPy, Matplotlib, Scikit-learn) · R (tidyr, ggplot2) · Git · Jupyter Notebooks**  
+Focus: data cleaning, feature engineering, predictive modeling, and analytics automation
+
+🗄️**Databases & Data Management** 
+
+**MySQL · PostgreSQL · SQLite · Azure Data Studio · SQLAlchemy**  
+Focus: structured data modeling, querying, and analytical dataset preparation
+
+🤖**AI & Intelligent Analytics**  
+
+**Prompt Engineering · NLP Basics · Sentiment Analysis · Predictive Modeling** 
+Focus: AI-assisted insights, marketing automation concepts, and intelligent decision support
+
+🧭**Project & Collaboration Tools** 
+
+**Jira · Google Analytics (GA4) · Documentation & Presentation Tools**  
+Focus: stakeholder communication, project tracking, and insight delivery
+
+
+---
+
+## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -111,7 +150,6 @@ Code with purpose. Analytics with direction. Solutions with value
 
 
 
-
 ---
 
-⭐ Thanks for visiting — feel free to explore my pinned repositories below!
+⭐Thanks for visiting — explore how I blend data, strategy, and storytelling across my pinned projects.
