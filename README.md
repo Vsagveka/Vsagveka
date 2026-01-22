@@ -82,12 +82,18 @@ Turning data into decisions and insights into business impact.
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-000?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-000?logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-000?logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+## 🧠 Featured Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F5D9F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -100,9 +106,11 @@ Turning data into decisions and insights into business impact.
 ---
 
 ## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sagvekar-5214802b3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsagvekar313@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sagvekar-5214802b3/)
-[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mailto:vaibhavsagvekar313@gmail.com)
+
+
 
 ---
 
