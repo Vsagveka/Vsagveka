@@ -26,20 +26,19 @@
 
 ## 🔧 Skills & Tools
 
-### 📊 Data & Business Analytics
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- R (tidyr, ggplot2)
-- SQL (PostgreSQL, MySQL, SQLite, Azure Data Studio)
-- Tableau, Power BI
-- Excel(Pivot Tables, Power Query, XLOOKUP, Data Cleaning, Dashboards, VBA Automation)
-
-
 ### 📈 Marketing Analytics
 - Customer Segmentation (RFM, Cohorts)
 - A/B Testing & Experiment Design
 - Funnel Analysis
 - SEO, STP, Pricing Strategy
 - Sentiment Analysis, Conjoint Analysis, Mix Modeling
+
+### 📊 Data & Business Analytics
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- R (tidyr, ggplot2)
+- SQL (PostgreSQL, MySQL, SQLite, Azure Data Studio)
+- Tableau, Power BI
+- Excel(Pivot Tables, Power Query, XLOOKUP, Data Cleaning, Dashboards, VBA Automation)
 
 ### 🛠 Other
 - Git & GitHub
